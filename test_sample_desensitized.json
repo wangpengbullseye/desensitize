@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": ￥14￥,
+      "name": "张三",
+      "age": ￥13￥,
+      "phone": "￥12￥",
+      "salary": ￥11￥
+    },
+    {
+      "id": ￥10￥,
+      "name": "李四",
+      "age": ￥9￥,
+      "phone": "￥8￥",
+      "salary": ￥7￥
+    },
+    {
+      "id": ￥6￥,
+      "name": "王五",
+      "age": ￥5￥,
+      "phone": "￥4￥",
+      "salary": ￥3￥
+    }
+  ],
+  "total_count": ￥2￥,
+  "max_salary": ￥1￥
+}
